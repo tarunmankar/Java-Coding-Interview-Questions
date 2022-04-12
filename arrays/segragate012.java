@@ -30,7 +30,23 @@ public class Test{
 	            two++;
 	        }
 	    }
+		
+	    for(int i =0; i < zeros; i++)
+	    {
+	        arr[i] = 0;
+	    }
 	    
+	    for(int i = zeros; i < zeros+ones; i++)
+	    {
+	        arr[i] = 1;
+	    }
+	    
+	    for(int i = zeros+ones; i < zeros+ones+two; i++)
+	    {
+	        arr[i] = 2;
+	    }
+		
+	    /*
 	    int i=0;
 	    while(0<zeros)
 	    {
@@ -52,5 +68,6 @@ public class Test{
 	        i++;
 	        two--;
 	    }
+	    */
 	}
 } 
