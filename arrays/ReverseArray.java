@@ -1,6 +1,9 @@
 /* Program to print the elements of an array in reverse order
-
+intput - {1,2,3,4,5,6}
+output - {6,5,4,3,2,1}
 */
+
+
 public class ReverseArray {
 
 	public static void main(String[] args) {
