@@ -1,4 +1,7 @@
-// Program to find largest element in an array
+/* Program to find largest element in an array
+input - 3,5,3,8,9,3,13,8,9,11;
+output - 13
+*/
 
 public class MaxNum {
 	public static void main(String[] args) {
