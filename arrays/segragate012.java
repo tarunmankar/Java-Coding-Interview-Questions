@@ -1,7 +1,5 @@
 //Que - Sort an array of 0's, 1's, and 2's (Dutch National Flag Problem)
 
-import java.util.*;
-
 public class Test{
 	public static void main (String[] args)
     {
