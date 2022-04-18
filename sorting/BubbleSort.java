@@ -1,6 +1,5 @@
 //bubble sort | Time Complexity: O(N2) 
 
-
 class Sorting {
    public static void main(String[] args) {
         int arr[] = {7, 8, 1, 3, 2};
