@@ -1,4 +1,5 @@
-//bubble sort
+//bubble sort | Time Complexity: O(N2) 
+
 
 class Sorting {
    public static void main(String[] args) {
