@@ -1,4 +1,7 @@
-// Q. Find the first non-repeating element in a given array of integers.
+/* Q. Find the first non-repeating element in a given array of integers.
+  Input : 9 4 9 6 7 4
+  Output : 6    
+*/
 
 class Main {
         public static void main(String[] args)
