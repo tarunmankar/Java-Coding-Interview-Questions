@@ -25,8 +25,8 @@ class Main {
         return -1;
     }
 }
-/* Time Complexity: O(n)
-   Auxiliary Space: O(n)
+/* Time Complexity: O(n^2)
+   Auxiliary Space: O(n^2)
 _______________________________________________________________ 
 */
 
@@ -56,5 +56,5 @@ public class Main {
     }
 }
 
-// Time Complexity: O(n^2)
-//  Auxiliary Space: O(n^2)
+// Time Complexity: O(n)
+//  Auxiliary Space: O(n)
